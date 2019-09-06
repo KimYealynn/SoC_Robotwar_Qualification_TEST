@@ -1,4 +1,16 @@
-
+// Main file으로 
+// 하단 함수 직접 구현하였습니다.
+// _ViewHistogram(CByteImage& image);
+// find_color_without_difference_image(CByteImage gImageBuf, CByteImage gBinImage);
+// GetHisto(CByteImage& image);
+// Detectcolor(CByteImage& image);
+// Find_close_set_part(const CByteImage& imageIn, CByteImage& cannyimageIn);
+// MeanShift(CByteImage& imageIn, CByteImage& Colored_canny, CByteImage& Original_image);
+// ExecuteLynnHSV(CByteImage gImageBuf, int StartH, int EndH, int StartS, int EndS, int StartV, int EndV);
+// CPErode(CByteImage& gBinImage);
+// CPDilate(CByteImage& gBinImage);
+// DoHoughparam(CByteImage& gBinImage);
+//
 // VideoProcessorDlg.cpp : 구현 파일
 //
 
